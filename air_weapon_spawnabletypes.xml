@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<spawnabletypes>
+	<damage min="0.0" max="0.2" />
+	<type name="air_weapon_9a91">
+		<attachments chance="1.00">
+			<item name="air_weapon_mag_9a91" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_abakan">
+		<attachments chance="1.00">
+			<item name="air_weapon_aksu_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_ace21">
+		<attachments chance="1.00">
+			<item name="Mag_STANAG_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_aek971">
+		<attachments chance="1.00">
+			<item name="air_weapon_aksu_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_aek973">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_ak74">
+		<attachments chance="1.00">
+			<item name="air_weapon_ak74_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_aksu">
+		<attachments chance="1.00">
+			<item name="air_weapon_aksu_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_akm">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_val">
+		<attachments chance="1.00">
+			<item name="air_weapon_val_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_aug">
+		<attachments chance="1.00">
+			<item name="Mag_STANAG_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_g3">
+		<attachments chance="1.00">
+			<item name="air_weapon_g3_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_g36c">
+		<attachments chance="1.00">
+			<item name="air_weapon_g36_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_g36">
+		<attachments chance="1.00">
+			<item name="air_weapon_g36_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_groza">
+		<attachments chance="1.00">
+			<item name="air_weapon_groza_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_hk416">
+		<attachments chance="1.00">
+			<item name="Mag_STANAG_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_l85a1">
+		<attachments chance="1.00">
+			<item name="Mag_STANAG_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_lr300">
+		<attachments chance="1.00">
+			<item name="Mag_STANAG_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_lvoa">
+		<attachments chance="1.00">
+			<item name="Mag_STANAG_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_m16">
+		<attachments chance="1.00">
+			<item name="air_weapon_m16_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_scar">
+		<attachments chance="1.00">
+			<item name="Mag_STANAG_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_scar_h">
+		<attachments chance="1.00">
+			<item name="air_weapon_scarh_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_akm_2">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_Palm30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_sg556">
+		<attachments chance="1.00">
+			<item name="Mag_STANAG_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_sg550">
+		<attachments chance="1.00">
+			<item name="air_weapon_sg550_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_stg">
+		<attachments chance="1.00">
+			<item name="air_weapon_stg_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_vihr">
+		<attachments chance="1.00">
+			<item name="air_weapon_Vihr_mag_30rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_xm8">
+		<attachments chance="1.00">
+			<item name="Mag_STANAG_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_ash12">
+		<attachments chance="1.00">
+			<item name="air_weapon_mag_ash12" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_aws">
+		<attachments chance="1.00">
+			<item name="air_weapon_aws_mag_75rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_kord">
+		<attachments chance="1.00">
+			<item name="air_weapon_kord_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_m240">
+		<attachments chance="1.00">
+			<item name="air_weapon_m240_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_mg42">
+		<attachments chance="1.00">
+			<item name="air_weapon_mg42_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_pkm">
+		<attachments chance="1.00">
+			<item name="air_weapon_pkm_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_rpk">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_Drum75Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_pkp">
+		<attachments chance="1.00">
+			<item name="air_weapon_pkm_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_m39emr">
+		<attachments chance="1.00">
+			<item name="air_weapon_m39_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_psg">
+		<attachments chance="1.00">
+			<item name="air_weapon_psg_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_svd">
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_svd_wooden">
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_svt">
+		<attachments chance="1.00">
+			<item name="air_weapon_svt_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_svu">
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_vssk">
+		<attachments chance="1.00">
+			<item name="air_weapon_mag_vssk" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_gauss">
+		<attachments chance="1.00">
+			<item name="air_weapon_gauss_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_protecta">
+		<attachments chance="1.00">
+			<item name="air_weapon_protecta_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_mp5">
+		<attachments chance="1.00">
+			<item name="air_weapon_mp5_mag" chance="0.50" />
+		</attachments>
+		<attachments>
+			<item name="Mag_MP5_30Rnd" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="air_weapon_p90">
+		<attachments chance="1.00">
+			<item name="air_weapon_p90_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_pp9">
+		<attachments chance="1.00">
+			<item name="air_weapon_pp9_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_pp19">
+		<attachments chance="1.00">
+			<item name="air_weapon_pp19_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_pp19vityaz">
+		<attachments chance="1.00">
+			<item name="air_weapon_vityaz_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_pp2000">
+		<attachments chance="1.00">
+			<item name="air_weapon_pp2000_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_ppsh41">
+		<attachments chance="1.00">
+			<item name="air_weapon_ppsh_71rnd_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_MP40">
+		<attachments chance="1.00">
+			<item name="air_weapon_mag_mp40_30rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_hk51">
+		<attachments chance="1.00">
+			<item name="air_weapon_hk51_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_type81">
+		<attachments chance="1.00">
+			<item name="air_weapon_mag_vepr" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_Vepr">
+		<attachments chance="1.00">
+			<item name="air_weapon_mag_vepr" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_Vepr_Doktor">
+		<attachments chance="1.00">
+			<item name="air_weapon_mag_vepr" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_berreta">
+		<attachments chance="1.00">
+			<item name="air_weapon_beretta_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_browning">
+		<attachments chance="1.00">
+			<item name="air_weapon_browning_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_colt">
+		<attachments chance="1.00">
+			<item name="Mag_1911_7Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_deagle">
+		<attachments chance="1.00">
+			<item name="Mag_Deagle_9rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_fn57">
+		<attachments chance="1.00">
+			<item name="air_weapon_fn57_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_gsh">
+		<attachments chance="1.00">
+			<item name="air_weapon_gsh_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_hk45">
+		<attachments chance="1.00">
+			<item name="air_weapon_hk45_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_m712">
+		<attachments chance="1.00">
+			<item name="air_weapon_m712_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_ots33">
+		<attachments chance="1.00">
+			<item name="air_weapon_ots33_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_p99">
+		<attachments chance="1.00">
+			<item name="air_weapon_p99_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_p220">
+		<attachments chance="1.00">
+			<item name="air_weapon_p220_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_makarov">
+		<attachments chance="1.00">
+			<item name="air_weapon_makarov_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_tt">
+		<attachments chance="1.00">
+			<item name="air_weapon_tt_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_tt_old">
+		<attachments chance="1.00">
+			<item name="air_weapon_tt_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="air_weapon_sks_tactical">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	
+</spawnabletypes>
